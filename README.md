@@ -3,14 +3,16 @@
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/130078090/235214912-7ea276eb-4b0f-47d8-9f1a-40e4586a4644.png">
 
 This project is about analyzing the Bike sales data to identify the factors that can influence bike sales.
-The tool used for this project – Microsoft Excel
+The tool used for this project – Microsoft Excel.
+
 Approach:
-Data Cleaning and Data Manipulation
-•	Checked the datatype of each column
-•	Removed duplicate values from the data
-•	Removed rows that had missing values
-•	Replaced values in the columns like Gender and Marital Status for convenience
-•	Added a column named “Age Bracket”, by using the Nested IF condition
+
+Data Cleaning and Data Manipulation.
+•	Checked the datatype of each column.
+•	Removed duplicate values from the data.
+•	Removed rows that had missing values.
+•	Replaced values in the columns like Gender and Marital Status for convenience.
+•	Added a column named “Age Bracket”, by using the Nested IF condition.
 
 Insights:
 1.	Age and Gender wise analysis:
