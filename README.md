@@ -3,6 +3,7 @@
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/130078090/235214912-7ea276eb-4b0f-47d8-9f1a-40e4586a4644.png">
 
 This project is about analyzing the Bike sales data to identify the factors that can influence bike sales.
+
 The tool used for this project – Microsoft Excel.
 
 Approach:
